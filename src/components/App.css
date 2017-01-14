@@ -1,0 +1,16 @@
+
+.basket {
+    text-align: center;
+}
+
+.app-header {
+    text-align: center;
+    background-color: #222;
+    color: white;
+    padding: 1em;
+}
+
+.app-intro {
+    text-align: center;
+    font-size: large;
+}

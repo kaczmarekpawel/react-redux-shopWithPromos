@@ -1,0 +1,19 @@
+.app__basket-items ul {
+  padding-left: 0;
+}
+
+.app__basket-items ul > li {
+  font-size: 1.5em;
+  list-style: none;
+  padding: 0.2em;
+}
+
+.app__product-remove button {
+    background-color: #7f0000;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+}
